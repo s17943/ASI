@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/ASI_DS/.idea/ASI_DS.iml" filepath="$USER_HOME$/ASI_DS/.idea/ASI_DS.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/Inz/.idea/Inz.iml" filepath="$USER_HOME$/DataspellProjects/Inz/.idea/Inz.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/PUM1/.idea/PUM1.iml" filepath="$USER_HOME$/DataspellProjects/PUM1/.idea/PUM1.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/PUm2/.idea/PUm2.iml" filepath="$USER_HOME$/DataspellProjects/PUm2/.idea/PUm2.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/PracaDyplomowa/.idea/PracaDyplomowa.iml" filepath="$USER_HOME$/DataspellProjects/PracaDyplomowa/.idea/PracaDyplomowa.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/dsProject/.idea/dsProject.iml" filepath="$USER_HOME$/DataspellProjects/dsProject/.idea/dsProject.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/dsProject1/.idea/dsProject1.iml" filepath="$USER_HOME$/DataspellProjects/dsProject1/.idea/dsProject1.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/dsProjectm/.idea/dsProjectm.iml" filepath="$USER_HOME$/DataspellProjects/dsProjectm/.idea/dsProjectm.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/ml_training/.idea/ml_training.iml" filepath="$USER_HOME$/DataspellProjects/ml_training/.idea/ml_training.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/numPyTraining/.idea/numPyTraining.iml" filepath="$USER_HOME$/DataspellProjects/numPyTraining/.idea/numPyTraining.iml" />
+      <module fileurl="file://$USER_HOME$/DataspellProjects/pokomon/.idea/pokomon.iml" filepath="$USER_HOME$/DataspellProjects/pokomon/.idea/pokomon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
+    </modules>
+  </component>
+</project>
